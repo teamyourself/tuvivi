@@ -27,3 +27,32 @@ Filename: ./Debs/hookduccom.deb
 Size: 150438
 MD5sum: 3b49232c06fe933870f21d4663819b7f
 Tag: role::hacker
+
+Package: jp.ashikase.mousesupport
+Name: MouseSupport
+Version: 1:1.0-2+debug
+Architecture: iphoneos-arm
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: System
+Filename: ./Debs/mouse.deb
+Size: 21790
+MD5sum: f96f4bc5dcbb1f0ff0493890d0b05c6a
+Tag: role::hacker
+
+Package: ch.ringwald.hidsupport
+Name: hid-support
+Depends: com.duccom01.noname
+Version: 1.3.1-2+debug
+Architecture: iphoneos-arm
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Tweaks
+Filename: ./Debs/hid.deb
+Size: 25202
+MD5sum: 44393ac4028e9a912d136101e092afc1
+Tag: role::hacker
