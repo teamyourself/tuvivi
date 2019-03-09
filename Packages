@@ -10,7 +10,7 @@ Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
 Size: 179882
-MD5sum: ec157e8c66bdcd34c00650fcea9c82cd
+MD5sum: ac3b6b7d06d969ac548f54ab69c28af8
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
@@ -25,11 +25,12 @@ Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
 Size: 150438
-MD5sum: 3b49232c06fe933870f21d4663819b7f
+MD5sum: 9dea4c4338614aebf6e4ea1056788614
 Tag: role::hacker
 
 Package: jp.ashikase.mousesupport
 Name: MouseSupport
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist
 Version: 1:1.0-2+debug
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
