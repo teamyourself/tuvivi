@@ -16,7 +16,7 @@ Tag: role::hacker
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: com.duccom01.noname
-Version: 8.0
+Version: 8.0.1
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: zxczxczxc
@@ -24,8 +24,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 150438
-MD5sum: 9dea4c4338614aebf6e4ea1056788614
+Size: 150392
+MD5sum: 624963e5b4fd0c4e4bdb19b14d30c063
 Tag: role::hacker
 
 Package: jp.ashikase.mousesupport
