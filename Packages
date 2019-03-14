@@ -3,7 +3,7 @@ Name: noname
 Depends: openssh,zip,sudo,com.rbt.useragentchanger,unzip,rsync,jetslammed,socat,com.duccom01.hookduccom
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Description: 
 Maintainer: zxczxczxc
 Author: @gmail.com
 Sponsor: xyz.ducauto.info
@@ -18,14 +18,14 @@ Name: hookduccom
 Depends: com.duccom01.noname
 Version: 8.0.1
 Architecture: iphoneos-arm
-Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Description:
 Maintainer: zxczxczxc
 Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 150392
-MD5sum: 624963e5b4fd0c4e4bdb19b14d30c063
+Size: 149,496
+MD5sum: 5390631656c53c8c492b6a93d11c44c2
 Tag: role::hacker
 
 Package: jp.ashikase.mousesupport
@@ -33,7 +33,7 @@ Name: MouseSupport
 Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist
 Version: 1:1.0-2+debug
 Architecture: iphoneos-arm
-Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Description:
 Maintainer: zxczxczxc
 Author: @gmail.com
 Sponsor: xyz.ducauto.info
