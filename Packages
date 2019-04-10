@@ -1,7 +1,7 @@
 Package: com.duccom01.noname
 Name: noname
 Depends: openssh,zip,sudo,unzip,rsync,jetslammed,socat,com.duccom01.hookduccom
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -9,14 +9,14 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 169634
-MD5sum: b865e329bfc15ccbbe9d4edd43b7d09c
+Size: 169632
+MD5sum: 0e93494e2d1b038912709ec3e161c339
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: com.duccom01.noname
-Version: 8.0.1
+Version: 8.0.2
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -24,8 +24,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 132640
-MD5sum: 5ddefd44bd009aaf8f493ab9dde4e1dc
+Size: 132662
+MD5sum: 8619b250d72be7c49f52c348809cb60c
 Tag: role::hacker
 
 Package: jp.ashikase.mousesupport
