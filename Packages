@@ -9,8 +9,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 179882
-MD5sum: ac3b6b7d06d969ac548f54ab69c28af8
+Size: 169634
+MD5sum: b865e329bfc15ccbbe9d4edd43b7d09c
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
@@ -24,8 +24,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 149,496
-MD5sum: 5390631656c53c8c492b6a93d11c44c2
+Size: 132640
+MD5sum: 5ddefd44bd009aaf8f493ab9dde4e1dc
 Tag: role::hacker
 
 Package: jp.ashikase.mousesupport
