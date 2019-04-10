@@ -1,9 +1,9 @@
 Package: com.duccom01.noname
 Name: noname
-Depends: openssh,zip,sudo,com.rbt.useragentchanger,unzip,rsync,jetslammed,socat,com.duccom01.hookduccom
+Depends: openssh,zip,sudo,unzip,rsync,jetslammed,socat,com.duccom01.hookduccom
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: 
+Description:
 Maintainer: zxczxczxc
 Author: @gmail.com
 Sponsor: xyz.ducauto.info
