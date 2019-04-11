@@ -57,3 +57,14 @@ Filename: ./Debs/hid.deb
 Size: 25202
 MD5sum: 44393ac4028e9a912d136101e092afc1
 Tag: role::hacker
+
+Package: com.agoda.consumer
+Name: Agoda
+Version: 7.12.0
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Agoda.com
+Author: Agoda.com
+Section: Utilities
+Size: 648544
+MD5sum: cf74a8e53ac3d8e2ce254357ee8a2a3d
