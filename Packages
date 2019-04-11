@@ -66,5 +66,6 @@ Description: An awesome application!
 Maintainer: Agoda.com
 Author: Agoda.com
 Section: Utilities
+Filename: ./Debs/agoda.deb
 Size: 648544
 MD5sum: cf74a8e53ac3d8e2ce254357ee8a2a3d
