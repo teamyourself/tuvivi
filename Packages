@@ -9,8 +9,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 170486
-MD5sum: 6cd301d7fc5a0ad2abfc1b581cc9aae9
+Size: 170492
+MD5sum: 87d875d8cd90011403c20e87a9f9b3a5
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
@@ -24,6 +24,20 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 150114
-MD5sum: f6a97f71341fe40b45355822b5a99929
+Size: 153332
+MD5sum: d2c150dba6966f2fd333e32a80c88c02
+Tag: role::hacker
+
+Package: swiss.ricardo.iphone
+Name: ricardoch
+Version: 7.4.7
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/ricardo.deb
+Size: 663082
+MD5sum: fb1798b96998c16525e186df97077d86
 Tag: role::hacker
