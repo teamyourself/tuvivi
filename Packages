@@ -41,3 +41,17 @@ Filename: ./Debs/ricardo.deb
 Size: 663082
 MD5sum: fb1798b96998c16525e186df97077d86
 Tag: role::hacker
+
+Package: com.stubhub.stubhub
+Name: stubhub
+Version: 7.9.8
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/stubhub.deb
+Size: 663118
+MD5sum: 05abfe19c4b30371f8699e4d1c8f5a64
+Tag: role::hacker
