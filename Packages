@@ -1,7 +1,7 @@
 Package: com.duccom01.noname
 Name: noname
 Depends: openssh,zip,sudo,unzip,rsync,socat,com.duccom01.hookduccom
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -9,14 +9,14 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 171426
-MD5sum: 4611f4926bdfe2f449bf91a74308f165
+Size: 171750
+MD5sum: 2ae4c74c7a9a31adef05eedcd104584a
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: com.duccom01.noname
-Version: 9.0.1
+Version: 9.0.2
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -24,8 +24,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 152270
-MD5sum: 60a510ca96720808482dc3df0675977d
+Size: 153310
+MD5sum: 72d0dcc5bd700af11a418e24c1f15678
 Tag: role::hacker
 
 Package: swiss.ricardo.iphone
@@ -52,6 +52,20 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Utilities
 Filename: ./Debs/stubhub.deb
+Size: 663114
+MD5sum: 22e96f139a433b2904563d8463cbca62
+Tag: role::hacker
+
+Package: com.duccom01.respring
+Name: respring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/respring.deb
 Size: 663114
 MD5sum: 22e96f139a433b2904563d8463cbca62
 Tag: role::hacker
