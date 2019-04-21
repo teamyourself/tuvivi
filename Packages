@@ -69,3 +69,17 @@ Filename: ./Debs/respring.deb
 Size: 50652
 MD5sum: 965b81eaf49f76b3bbc3f8b47f4b22c5
 Tag: role::hacker
+
+Package: com.peixeurbano.peixeurbanoapp
+Name: peixe
+Version: 7.2.2
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/peixeurbanoapp.deb
+Size: 662562
+MD5sum: b7cdb3c59d4266884cb83e00b42241c5
+Tag: role::hacker
