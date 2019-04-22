@@ -1,7 +1,7 @@
 Package: com.duccom01.noname
 Name: noname
 Depends: openssh,zip,sudo,unzip,rsync,socat,com.duccom01.hookduccom
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -9,8 +9,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 172164
-MD5sum: 03f6ba096166f26a69d292e85658b66c
+Size: 172192
+MD5sum: 917df5d24e6e842131bb23296598aade
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
@@ -82,4 +82,32 @@ Section: Utilities
 Filename: ./Debs/peixeurbanoapp.deb
 Size: 662562
 MD5sum: b7cdb3c59d4266884cb83e00b42241c5
+Tag: role::hacker
+
+Package: io.crazeapp.screenshot
+Name: screenshot
+Version: 8.7.6
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/screenshot.deb
+Size: 662582
+MD5sum: 1313dd548dbe8213e73d485810900338
+Tag: role::hacker
+
+Package: com.tetramillc.tetrami
+Name: tetrami
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/tetrami.deb
+Size: 662574
+MD5sum: c2c51abefcc7db765dfcf5b95377e32e
 Tag: role::hacker
