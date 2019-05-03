@@ -1,7 +1,7 @@
 Package: com.duccom01.noname
 Name: noname
 Depends: openssh,zip,sudo,unzip,rsync,socat,com.duccom01.hookduccom
-Version: 1.0.4
+Version: 2.0.0
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -9,8 +9,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 172192
-MD5sum: 917df5d24e6e842131bb23296598aade
+Size: 172106
+MD5sum: 7f2111ddfaa3df7c5943ec84a400c312
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
@@ -26,34 +26,6 @@ Section: Tweaks
 Filename: ./Debs/hookduccom.deb
 Size: 153310
 MD5sum: 72d0dcc5bd700af11a418e24c1f15678
-Tag: role::hacker
-
-Package: swiss.ricardo.iphone
-Name: ricardoch
-Version: 7.4.7
-Architecture: iphoneos-arm
-Description:
-Maintainer: zxczxczxc
-Author: @gmail.com
-Sponsor: xyz.ducauto.info
-Section: Utilities
-Filename: ./Debs/ricardo.deb
-Size: 663082
-MD5sum: fb1798b96998c16525e186df97077d86
-Tag: role::hacker
-
-Package: com.stubhub.stubhub
-Name: stubhub
-Version: 7.9.8
-Architecture: iphoneos-arm
-Description:
-Maintainer: zxczxczxc
-Author: @gmail.com
-Sponsor: xyz.ducauto.info
-Section: Utilities
-Filename: ./Debs/stubhub.deb
-Size: 663114
-MD5sum: 22e96f139a433b2904563d8463cbca62
 Tag: role::hacker
 
 Package: com.duccom01.respring
@@ -84,30 +56,16 @@ Size: 662562
 MD5sum: b7cdb3c59d4266884cb83e00b42241c5
 Tag: role::hacker
 
-Package: io.crazeapp.screenshot
-Name: screenshot
-Version: 8.7.6
+Package: com.gamegos.mobile.cafeland
+Name: cafeland
+Version: 2.0.16
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
 Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Utilities
-Filename: ./Debs/screenshot.deb
-Size: 662582
-MD5sum: 1313dd548dbe8213e73d485810900338
-Tag: role::hacker
-
-Package: com.tetramillc.tetrami
-Name: tetrami
-Version: 1.0.3
-Architecture: iphoneos-arm
-Description:
-Maintainer: zxczxczxc
-Author: @gmail.com
-Sponsor: xyz.ducauto.info
-Section: Utilities
-Filename: ./Debs/tetrami.deb
-Size: 662574
-MD5sum: c2c51abefcc7db765dfcf5b95377e32e
+Filename: ./Debs/cafeland.deb
+Size: 662660
+MD5sum: 5b5043a094ce4f2bce5e2317de3bbe82
 Tag: role::hacker
