@@ -69,3 +69,17 @@ Filename: ./Debs/cafeland.deb
 Size: 662660
 MD5sum: 5b5043a094ce4f2bce5e2317de3bbe82
 Tag: role::hacker
+
+Package: com.helpbit.app
+Name: helpbit
+Version: 1.12.63
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/cafeland.deb
+Size: 662578
+MD5sum: bdb243beac27013d62531df9af5736ec
+Tag: role::hacker
