@@ -100,7 +100,7 @@ Tag: role::hacker
 
 Package: com.zomato.zomato
 Name: zomato
-Version: 1.9
+Version: 13.2.4
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
