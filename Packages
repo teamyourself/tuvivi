@@ -84,16 +84,16 @@ Size: 662578
 MD5sum: bdb243beac27013d62531df9af5736ec
 Tag: role::hacker
 
-Package: com.tagged.meetme
-Name: meetme
-Version: 9.13.0
+Package: com.istomgames.nyan
+Name: nyan
+Version: 1.9
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
 Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Utilities
-Filename: ./Debs/meetme.deb
-Size: 667994
-MD5sum: 3b014de935fbbef7c3f2be3ae5dcd7f1
+Filename: ./Debs/nyan.deb
+Size: 667998
+MD5sum: e30b9b9752b3efd59138322e809329a3
 Tag: role::hacker
