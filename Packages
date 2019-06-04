@@ -1,7 +1,7 @@
 Package: com.duccom01.noname
 Name: noname
 Depends: openssh,zip,sudo,unzip,rsync,socat,com.duccom01.hookduccom
-Version: 2.0.1
+Version: 2.0.2
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -9,14 +9,14 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 172180
-MD5sum: 82eccfeb7dc5043df255e4c1461bb76b
+Size: 171642
+MD5sum: 5601aeca6b35444032eb4a4232545932
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: com.duccom01.noname
-Version: 9.0.2
+Version: 9.0.3
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -24,8 +24,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 153310
-MD5sum: 72d0dcc5bd700af11a418e24c1f15678
+Size: 152330
+MD5sum: b65858af5d6c053cdd62c8735f83f02f
 Tag: role::hacker
 
 Package: com.duccom01.respring
