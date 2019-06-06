@@ -1,0 +1,113 @@
+Package: com.duccom01.noname
+Name: noname
+Depends: openssh,zip,sudo,unzip,rsync,socat,com.duccom01.hookduccom
+Version: 2.0.4
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: System
+Filename: ./Debs/noname.deb
+Size: 171734
+MD5sum: 8189686e615896e63708754f2dddb42a
+Tag: role::hacker
+
+Package: com.duccom01.hookduccom
+Name: hookduccom
+Depends: com.duccom01.noname
+Version: 9.0.5
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Tweaks
+Filename: ./Debs/hookduccom.deb
+Size: 150700
+MD5sum: 37145bf25bf26914c9fd895acf6810d3
+Tag: role::hacker
+
+Package: com.duccom01.respring
+Name: respring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/respring.deb
+Size: 50652
+MD5sum: 965b81eaf49f76b3bbc3f8b47f4b22c5
+Tag: role::hacker
+
+Package: com.peixeurbano.peixeurbanoapp
+Name: peixe
+Version: 7.2.2
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/peixeurbanoapp.deb
+Size: 662562
+MD5sum: b7cdb3c59d4266884cb83e00b42241c5
+Tag: role::hacker
+
+Package: com.gamegos.mobile.cafeland
+Name: cafeland
+Version: 2.0.16
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/cafeland.deb
+Size: 662660
+MD5sum: 5b5043a094ce4f2bce5e2317de3bbe82
+Tag: role::hacker
+
+Package: com.helpbit.app
+Name: helpbit
+Version: 1.12.63
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/helpbit.deb
+Size: 662578
+MD5sum: bdb243beac27013d62531df9af5736ec
+Tag: role::hacker
+
+Package: com.istomgames.nyan
+Name: nyan
+Version: 1.9
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/nyan.deb
+Size: 667998
+MD5sum: e30b9b9752b3efd59138322e809329a3
+Tag: role::hacker
+
+Package: com.zomato.zomato
+Name: zomato
+Version: 13.2.4
+Architecture: iphoneos-arm
+Description:
+Maintainer: zxczxczxc
+Author: @gmail.com
+Sponsor: xyz.ducauto.info
+Section: Utilities
+Filename: ./Debs/zomato.deb
+Size: 667990
+MD5sum: 98175ca919c18a5990ce8e3d10a8022c
+Tag: role::hacker
