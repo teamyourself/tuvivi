@@ -52,7 +52,7 @@ Maintainer: zxczxczxc
 Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
-Filename: ./Debs/hookduccom.deb
+Filename: ./Debs/hidsupport.deb
 Size: 13416
 MD5sum: 89c04dd55d5657d688852b6e88f0b81b
 Tag: role::hacker
@@ -66,8 +66,8 @@ Description:
 Maintainer: zxczxczxc
 Author: @gmail.com
 Sponsor: xyz.ducauto.info
-Section: Tweaks
-Filename: ./Debs/hookduccom.deb
+Section: System
+Filename: ./Debs/mousesupport.deb
 Size: 22186
 MD5sum: 1faefdb152a1b167c7280c649bf960f5
 Tag: role::hacker
