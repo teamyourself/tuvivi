@@ -1,6 +1,6 @@
 Package: com.duccom01.noname
 Name: noname
-Depends: openssh,zip,sudo,unzip,rsync,socat,com.autopear.installipa,jetslammed,com.duccom01.hookduccom,com.duccom01.hidsupport,com.duccom01.mousesupport
+Depends: openssh,zip,sudo,unzip,rsync,socat,com.autopear.installipa,com.duccom01.hookduccom,com.duccom01.hidsupport,com.duccom01.mousesupport
 Version: 10.0.3
 Architecture: iphoneos-arm
 Description:
