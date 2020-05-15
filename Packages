@@ -9,8 +9,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 180070
-MD5sum: 707255aac26d394c614db224b7184fda
+Size: 181552
+MD5sum: 3819192d25b74f1fa4f5d7911e60ec40
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
