@@ -9,14 +9,14 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 181574
-MD5sum: 93a9fd04a6f0baf88407e8df9923dc08
+Size: 181568
+MD5sum: 7fc0458fbb7c20d6afc44b4f04b3ae7c
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: com.duccom01.noname
-Version: 10.0.5
+Version: 10.1.0
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -24,8 +24,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 150536
-MD5sum: abbff444ef2e24c43e69980cee93caf7
+Size: 150682
+MD5sum: 836bfe2bb61613980f7e4b0bb73ff2f6
 Tag: role::hacker
 
 Package: com.duccom01.respring
