@@ -1,6 +1,6 @@
 Package: com.duccom01.noname
 Name: noname
-Depends: openssh,zip,sudo,unzip,rsync,socat,com.autopear.installipa,com.duccom01.hookduccom,com.duccom01.hidsupport,com.duccom01.mousesupport
+Depends: openssh,zip,sudo,unzip,rsync,socat,com.autopear.installipa,mobilesubstrate,com.duccom01.hookduccom,com.duccom01.hidsupport,com.duccom01.mousesupport
 Version: 10.1.1
 Architecture: iphoneos-arm
 Description:
@@ -16,7 +16,7 @@ Tag: role::hacker
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: com.duccom01.noname
-Version: 10.1.0
+Version: 10.1.1
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -24,8 +24,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 152246
-MD5sum: eaef17466e313d6d95a1417e299d412c
+Size: 153250
+MD5sum: 2b1f566857f4ac062ffae9868ba76ddb
 Tag: role::hacker
 
 Package: com.duccom01.respring
