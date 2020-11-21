@@ -9,8 +9,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 172234
-MD5sum: ee6dfe3457f0d7734f5c4e427f5b9002
+Size: 171350
+MD5sum: 67d15010a03147c42d54f655654a3859
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
@@ -24,8 +24,8 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 153250
-MD5sum: 2b1f566857f4ac062ffae9868ba76ddb
+Size: 152736
+MD5sum: e1449ed688b4f6d8f9b6548247ca50ce
 Tag: role::hacker
 
 Package: com.duccom01.respring
