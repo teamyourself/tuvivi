@@ -1,22 +1,7 @@
-Package: com.duccom01.noname
-Name: noname
-Depends: openssh,zip,sudo,unzip,rsync,socat,com.autopear.installipa,mobilesubstrate,com.duccom01.hookduccom,com.duccom01.hidsupport,com.duccom01.mousesupport
-Version: 10.1.2
-Architecture: iphoneos-arm
-Description:
-Maintainer: zxczxczxc
-Author: @gmail.com
-Sponsor: xyz.ducauto.info
-Section: System
-Filename: ./Debs/noname.deb
-Size: 171350
-MD5sum: 67d15010a03147c42d54f655654a3859
-Tag: role::hacker
-
 Package: com.duccom01.hookduccom
 Name: hookduccom
-Depends: com.duccom01.noname
-Version: 10.1.1
+Depends: openssh,zip,sudo,unzip,rsync,socat,com.autopear.installipa,mobilesubstrate
+Version: 1.2.0
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -24,50 +9,6 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 152736
-MD5sum: e1449ed688b4f6d8f9b6548247ca50ce
-Tag: role::hacker
-
-Package: com.duccom01.respring
-Name: respring
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description:
-Maintainer: zxczxczxc
-Author: @gmail.com
-Sponsor: xyz.ducauto.info
-Section: Utilities
-Filename: ./Debs/respring.deb
-Size: 50652
-MD5sum: 965b81eaf49f76b3bbc3f8b47f4b22c5
-Tag: role::hacker
-
-Package: com.duccom01.hidsupport
-Name: hid-support
-Depends: com.duccom01.noname
-Version: 1.3.2
-Architecture: iphoneos-arm
-Description:
-Maintainer: zxczxczxc
-Author: @gmail.com
-Sponsor: xyz.ducauto.info
-Section: Tweaks
-Filename: ./Debs/hidsupport.deb
-Size: 12894
-MD5sum: b5f33d1229d0ef36958ebea037e6cd8f
-Tag: role::hacker
-
-Package: com.duccom01.mousesupport
-Name: MouseSupport
-Depends: com.duccom01.noname,mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist, com.duccom01.hidsupport (>= 1.3.1)
-Version: 1:1.0
-Architecture: iphoneos-arm
-Description:
-Maintainer: zxczxczxc
-Author: @gmail.com
-Sponsor: xyz.ducauto.info
-Section: System
-Filename: ./Debs/mousesupport.deb
-Size: 22186
-MD5sum: 1faefdb152a1b167c7280c649bf960f5
+Size: 207322
+MD5sum: fa5a023567d317eeca642eb34d6d9bce
 Tag: role::hacker
