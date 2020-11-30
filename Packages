@@ -1,7 +1,7 @@
 Package: com.duccom01.hookduccom
 Name: hookduccom
-Depends: openssh,zip,sudo,unzip,rsync,socat,com.autopear.installipa,mobilesubstrate
-Version: 1.2.0
+Depends: openssh,zip,sudo,unzip,rsync,socat,com.autopear.installipa,mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist
+Version: 1.3.0
 Architecture: iphoneos-arm
 Description:
 Maintainer: zxczxczxc
@@ -9,6 +9,6 @@ Author: @gmail.com
 Sponsor: xyz.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 207322
-MD5sum: fa5a023567d317eeca642eb34d6d9bce
+Size: 208554
+MD5sum: 4c6d19622c58d01f2efa09397652c6e2
 Tag: role::hacker
